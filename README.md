@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React-Revision
 
 This repository contains multiple React projects and practice folders. Each subfolder demonstrates different concepts, components, and utilities in React, including Vite setups, Tailwind CSS, custom hooks, and more.
